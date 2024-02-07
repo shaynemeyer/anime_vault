@@ -1,5 +1,7 @@
 # Anime Vault
 
+A NextJS app that demonstrates using Server Actions and Framer Motion to dynamically load pages on scroll.
+
 ```bash
 npm run dev
 ```
